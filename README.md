@@ -70,7 +70,7 @@ OSAT - Outsourced Semiconductor Assembly and Test
 
 ![Image](https://github.com/arjunsa08/package_doc/blob/b07a05073e5f489e2adbb47ba2a7805f4820951f/Screenshot%202025-04-20%20131425.png)
 
-# MODULE 3 
+# MODULE 3  Thermal analysis 
 
 # LAB flip chip - Die, substrate, die_underfill, solder ball full array and via 
 ![Image](https://github.com/arjunsa08/package_doc/blob/834aa98298c621fe878a69dbd4d8ea202221f237/Screenshot%202025-04-20%20174723.png)
@@ -124,6 +124,36 @@ Bottom surface temperature
 ![Image](https://github.com/arjunsa08/package_doc/blob/e8bed13e0e5cb74db3caa8bef0a6a74257cbd910/Screenshot%202025-04-20%20192141.png)
 ![Image](https://github.com/arjunsa08/package_doc/blob/e8bed13e0e5cb74db3caa8bef0a6a74257cbd910/Screenshot%202025-04-20%20192159.png)
 ![Image](https://github.com/arjunsa08/package_doc/blob/e8bed13e0e5cb74db3caa8bef0a6a74257cbd910/Screenshot%202025-04-20%20192221.png)
+
+
+# MODULE 5 LAB 
+# Create die 3*3 mm  position 0,0,0
+![Image](https://github.com/arjunsa08/package_doc/blob/ccf7d218480aa5b0ece3f5fb54b865c904776cc2/Screenshot%202025-04-20%20193516.png)
+# Convert 2D die into 3D thickness 0.2 
+![Image](https://github.com/arjunsa08/package_doc/blob/ccf7d218480aa5b0ece3f5fb54b865c904776cc2/Screenshot%202025-04-20%20193550.png)
+# Choose die material 
+![Image](https://github.com/arjunsa08/package_doc/blob/ccf7d218480aa5b0ece3f5fb54b865c904776cc2/Screenshot%202025-04-20%20193723.png)
+# Create substrate 5*5mm position -1,-1,0 thickness -0.2mm 
+![Image](https://github.com/arjunsa08/package_doc/blob/ccf7d218480aa5b0ece3f5fb54b865c904776cc2/Screenshot%202025-04-20%20193951.png)
+
+# Selecting substrate material 
+![Image](https://github.com/arjunsa08/package_doc/blob/74593f8248d3ac8a0aba559e396702626d1ffc7b/Screenshot%202025-04-20%20195020.png)
+
+# Create space in between die and substarte by -0.1mm 
+![Image](https://github.com/arjunsa08/package_doc/blob/17abcdd7995313c33733234c69c900d3982a57ec/Screenshot%202025-04-20%20195414.png)
+# Create die attach layer 
+![Image](https://github.com/arjunsa08/package_doc/blob/17abcdd7995313c33733234c69c900d3982a57ec/Screenshot%202025-04-20%20195702.png)
+# Create die bond pad and substarte 
+
+# Selection of wire material
+![Image](https://github.com/arjunsa08/package_doc/blob/17abcdd7995313c33733234c69c900d3982a57ec/Screenshot%202025-04-20%20200946.png)
+
+# Create a mold compound of same size as the substrate and a thickness 1.2mm 
+![Image](https://github.com/arjunsa08/package_doc/blob/17abcdd7995313c33733234c69c900d3982a57ec/Screenshot%202025-04-20%20201333.png)
+
+# Final cross-sectional view of package 
+![Image](https://github.com/arjunsa08/package_doc/blob/17abcdd7995313c33733234c69c900d3982a57ec/Screenshot%202025-04-20%20201458.png)
+
 
 
 
