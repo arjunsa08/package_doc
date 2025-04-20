@@ -25,7 +25,7 @@ The initial layer, known as the system board, comprises a printed circuit board 
 
 ![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122555.png)
 
-#Types of packages 
+# Types of packages 
 
 # Anatomy of packaging 
 
