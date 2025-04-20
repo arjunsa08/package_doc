@@ -110,6 +110,7 @@ Top model
 # Temperature - plot on surface only 
 ![Image](https://github.com/arjunsa08/package_doc/blob/834aa98298c621fe878a69dbd4d8ea202221f237/Screenshot%202025-04-20%20182232.png)
 ![Image](https://github.com/arjunsa08/package_doc/blob/834aa98298c621fe878a69dbd4d8ea202221f237/Screenshot%202025-04-20%20182314.png)
+
 Top surface temperature 
 ![Image](https://github.com/arjunsa08/package_doc/blob/834aa98298c621fe878a69dbd4d8ea202221f237/Screenshot%202025-04-20%20182330.png)
 Bottom surface temperature 
