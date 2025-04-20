@@ -16,4 +16,31 @@ Functionality (Wafer - Die) -> Personality (After Packaging)
 
 ![Image](https://github.com/arjunsa08/package_doc/blob/46136fc90c07fb9d2e97ff1cfb87a56835f41ed6/Screenshot%202025-04-20%20122348.png)
 
+# Right packaging based on application 
+The initial layer, known as the system board, comprises a printed circuit board (PCB) that serves as a connector for various components and circuits, facilitating the assembly of the entire system. Subsequently, a carrier layer is employed to accommodate the silicon die 
+
+![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122432.png)
+
+# IC package - SMT and through-hole mounting 
+
+![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122555.png)
+
+#Types of packages 
+
+# Anatomy of packaging 
+
+  # Leadframe package 
+
+![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122625.png)
+
+  # Laminate package 
+
+![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122640.png)
+  
+  # Advanced packaging substrate 
+
+![Image](https://github.com/arjunsa08/package_doc/blob/a51bd6f2f0d0a882ad83f799a2c72936eb34a058/Screenshot%202025-04-20%20122700.png)
+
+
+
 
